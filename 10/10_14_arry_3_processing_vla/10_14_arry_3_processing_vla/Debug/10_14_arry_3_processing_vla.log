@@ -1,0 +1,19 @@
+﻿  10_14_arry_3_processing_vla.c
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(5): error C2057: 应输入常量表达式
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(5): error C2466: 不能分配常量大小为 0 的数组
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(5): error C2087: “ar”: 缺少下标
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(24): error C2057: 应输入常量表达式
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(24): error C2466: 不能分配常量大小为 0 的数组
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(24): error C2087: “ar”: 缺少下标
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(24): error C2133: “ar”: 未知的大小
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(36): warning C4048: “const double (*)[5]”和“double [0][1]”数组的下标不同
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(45): warning C4048: “double (*)[5]”和“double [0][1]”数组的下标不同
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(49): warning C4048: “double (*)[5]”和“double [0][1]”数组的下标不同
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(56): error C2057: 应输入常量表达式
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(56): error C2466: 不能分配常量大小为 0 的数组
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(56): error C2087: “ar”: 缺少下标
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(63): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(93): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c\10\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla\10_14_arry_3_processing_vla.c(130): warning C4013: “copy_arr”未定义；假设外部返回 int
